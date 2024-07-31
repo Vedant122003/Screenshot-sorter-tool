@@ -22,10 +22,10 @@ if not os.path.exists(CLUSTERS_STORE):
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-81cy)*%ft0h!mbxj9cqp*0a@^xaf)17^!#wx!6q2vg&pi3co=y'
 
-# SECURITY WARNING: don't run with debug turned on in production!
+SECRET_KEY = ''
+
+
 DEBUG = True
 
 ALLOWED_HOSTS = []
